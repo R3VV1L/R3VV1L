@@ -12,4 +12,4 @@
 - **Мониторинг и логирование:** Prometheus, Grafana
 - **Управление конфигурацией:** Ansible
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R3VV1L&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R3VV1L&layout=compact)
