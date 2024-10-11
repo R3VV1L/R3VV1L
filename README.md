@@ -11,3 +11,5 @@
 - **Скриптование:** Bash, Python
 - **Мониторинг и логирование:** Prometheus, Grafana
 - **Управление конфигурацией:** Ansible
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R3VV1L&show_icons=true&theme=cobalt)
