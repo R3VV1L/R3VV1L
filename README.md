@@ -12,4 +12,4 @@
 - **Мониторинг и логирование:** Prometheus, Grafana
 - **Управление конфигурацией:** Ansible
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R3VV1L&layout=compact)
